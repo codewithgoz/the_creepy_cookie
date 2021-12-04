@@ -4,6 +4,8 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://gozdeveloper.com/creepy_cookie)
 
+<p align="center"><a href="https://gozdeveloper.com/creepy_cookie">CLICK HERE TO GET A COOKIE</a></p>
+
 This is just a fun project I developed for my webinar's students. 
 
 The main idea is that:
