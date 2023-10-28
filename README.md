@@ -41,7 +41,7 @@ You can use The Creepy Fortune Cookie code for your personal and commercial use 
 <!-- CONTACT -->
 ## Contact
 
-Gustavo Gómez Macías (Goz) - [personal website](https://gustavogm.me) - [courses website](https://gozdeveloper.com) - goz.programmer@gmail.com
+Gustavo Gómez Macías (Goz) - [personal website](https://gustavogm.me) - [courses website](https://codewithgoz.com) - goz.programmer@gmail.com
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
