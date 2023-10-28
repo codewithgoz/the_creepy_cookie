@@ -9,7 +9,7 @@ const cookie_1 = document.getElementById('cookie_1');
 const cookie_2= document.getElementById('cookie_2');
 const button = document.getElementById('btn');
 const message = document.getElementById('message');
-const MESSAGES = 'https://gozdeveloper.com/creepy_cookie/messages.json';
+const MESSAGES = 'https://codewithgoz.com/creepy_cookie/messages.json';
 const anotherCookie = document.getElementById('another_cookie');
 
 // Local Data for cookie's message
@@ -65,7 +65,7 @@ function showLinks(container){
   const cookieLinks = document.createElement('div')
   cookieLinks.innerHTML = `
    <div id="cookie_links">
-     <a href="https://gozdeveloper.com/creepy_cookie">¿Quieres otra galleta?</a>
+     <a href="https://codewithgoz.com/creepy_cookie/index.html">¿Quieres otra galleta?</a>
    </div>
   `
   container.appendChild(cookieLinks);
